@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página con Enlaces</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #333;
+        }
+        a {
+            display: inline-block;
+            margin: 10px 0;
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        a:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>PROMOCIÓN DE HÁBITOS SALUDABLES Y PREVENCIÓN EN PEDIATRÍA</h1>
+    <p>Aquí tienes algunos enlaces útiles:</p>
+
+    <a href="https://drive.google.com/file/d/1_JiImSZVeYigY0wxalkL2RNkeLH15xFj/view?usp=drive_link" target="_blank" title="Alimentación Saludable">Alimentación Saludable</a><br>
+    <a href="https://drive.google.com/file/d/1C3u2dBnKIkguCmUJL2t_UeXJJC5MC1OT/view?usp=drive_link" target="_blank" title="Crianza Respetuosa">Crianza Respetuosa</a><br>
+    <a href="https://drive.google.com/file/d/1X1XPY5yTCt3drs0IZcYI3NDFdJdkd4Vc/view?usp=drive_link" target="_blank" title="Importancia de los Hábitos Higiénicos">Importancia de los Hábitos Higiénicos</a><br>
+    <a href="https://drive.google.com/file/d/1-ekRbCRQiaCYN0fE0YdVfwfWd4eYDfVi/view?usp=drive_link" target="_blank" title="Importancia de las Vacunas">Importancia de las Vacunas</a><br>
+    <a href="https://drive.google.com/file/d/1TWhJfJICwMQNdFRhoyaSTG-WwDseUniM/view?usp=drive_link" target="_blank" title="Importancia del Ejercicio Físico y Juegos al Aire Libre">Importancia del Ejercicio Físico y Juegos al Aire Libre</a><br>
+    <a href="https://drive.google.com/file/d/130eTGs8I9fbZJOnmJT5-4V98nT4fP_mf/view?usp=drive_link" target="_blank" title="Las Pantallas y su Impacto">Las Pantallas y su Impacto</a><br>
+    <a href="https://drive.google.com/file/d/1749LDUT0Anfify3yuW04z7aQxo-HZoR2/view?usp=drive_link" target="_blank" title="Prevención de Lesiones No Intencionadas">Prevención de Lesiones No Intencionadas</a><br>
+    <a href="https://drive.google.com/file/d/1w8A8tyOE9B6ILYJ4RzzM5P8xmVbswK6e/view?usp=drive_link" target="_blank" title="Teléfonos Útiles">Teléfonos Útiles</a><br>
+</body>
+</html>
